@@ -5,4 +5,8 @@ hello
 this is 2017
 now 2018
 seiha2
-I put the button RED !
+
+Here is the list of leave types
+- leave
+- holiday
+- sicjneww
